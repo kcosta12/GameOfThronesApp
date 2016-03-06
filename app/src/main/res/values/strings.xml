@@ -1,0 +1,925 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Game Of Thrones</string>
+    <string name="action_search">Cerca</string>
+    <string name="action_compose">Favorits</string>
+    <string name="action_settings">Settings</string>
+    <string name="text_desat">Desat a favorits</string>
+
+    <!-- Noms de les casas i els seus lemas -->
+    <string name="casa_stark">Stark</string>
+    <string name="lema_stark">Winter Is Coming</string>
+    <string name="casa_lanni">Lannister</string>
+    <string name="lema_lanni">Hear Me Roar</string>
+    <string name="casa_bara">Baratheon</string>
+    <string name="lema_bara">Ours Is The Fury</string>
+    <string name="casa_tyrell">Tyrell</string>
+    <string name="lema_tyrell">Growing Strong</string>
+    <string name="casa_grey">Greyjoy</string>
+    <string name="lema_grey">We Do Not Sow</string>
+    <string name="casa_arryn">Arryn</string>
+    <string name="lema_arryn">As High As Honor</string>
+    <string name="casa_bolton">Bolton</string>
+    <string name="lema_bolton">Our Blades Are Sharp</string>
+
+    <!-- Personatges de les casa Stark amb la seva descripció-->
+    <string-array name="desc_stark">
+        <item>
+            \"The man who passes the sentence should swing the sword.\"\n
+            -Eddard Stark\n\n
+            Eddard is the head of House Stark and Lord Paramount of the North. The North is one of the
+            constituent regions of the Seven Kingdoms, and House Stark is one of the Great House of
+            the realm. House Stark rules the region from their seat of Winterfell, and Eddard also
+            holds the little Lord of Winterfell. In addition, he is the Warden of the North.\n\n
+            Eddard is married to Lady Catelyn of House Tully. Though they barely knew one another when
+            they wed, they formed a strong and loving marriage. They have five legitimate children: Robb,
+            Sansa, Arya, Bran and Rickon. Eddard also has an illegitimate bastard son, Jon Snow, reportedly
+            by a common serving girl named Wylla. Jon\'s presence at Winterfell is a source of friction
+            between Eddard and his wife. Nevertheless, Eddard was close to all his children and was
+            well-loved an respected by all of them. He seemed to have a soft spot for his youngest daughter, Arya.\n\n
+            Eddard is the second son of the Lord Rickard Stark. Lord Rickard served King Aerys II Targaryen
+            as Warden of the North. Eddard\'s older brother Brandon was Rickard\'s heir. Eddard also
+            has a younger sister Lyanna and a younger brother Benjen. Eddard is a stoic, dutiful, and
+            honorable man and is considered to embody the values of the north.\n\n
+        </item>
+        <item>
+            \"Show them how it feels to lose what they love.\"\n
+            -Catelyn Stark\n\n
+            Catelyn is from House Tully and married into House Stark. She is a devoted mother and is
+        fiercely protective of her children. Her husband, Eddard Stark, is the Lord paramount of the
+        North. He becomes Hand of the King to Robert Baratheon and travels south to the capital.
+        Following an assassination attempt on her son Bran, she follows Eddard to warn him that
+        House Lannister were involved. On her return journey she chances upon Tyrion Lannister and
+        takes him into custody. This incites further conflict between the houses and Eddard is
+        arrested for treason when Cersei Lannister becomes queen regent following the unexpected
+        death of Robert. Catelyn is forced to release Tyrion when he proves his innocence in a trial
+        by combat. She joins her son, Robb Stark, who has gathered the Stark banners to fight for
+        Eddard\'s freedom. Eddard is executed on the order of King Joffrey Baratheon and Catelyn
+        promises Robb that they will avenge him. While at the wedding of her brother to Roslin Frey,
+        Catelyn is killed along with her son, his wife, and most of the Stark bannermen.\n\n
+        </item>
+        <item>
+            \"I\'ve won every battle. But I\'m losing this war.\"\n
+            -Robb Stark\n\n
+            King Robb Stark is a major character in the first, second, and third seasons. He is
+            played by starring cast member Richard Madden, and debuts in the series premiere. Robb
+            is the eldest son of Lord Eddard Stark of Winterfell and his wife Lady Catelyn, brother
+            of Sansa, Arya, Bran and Rickon Stark, and half-brother of Jon Snow, and adopts a direwolf
+            named Grey Wind.\n\n
+            Robb is the eldest child of Lady Catelyn and Lord Eddard Stark. Eddard is the head of
+            House Stark, Lord of Winterfell and Lord Paramount of the North, one of the constituent
+            regions of the Seven Kingdoms. The Starks rule the region from their seat of Winterfell.
+            Eddard is also the Warden of the North to King Robert Baratheon\n\n
+            Robb was born at Riverrun and raised in Winterfell. His father left his mother the morning
+            after their wedding to fight in Robert\'s Rebellion and did not return until after Robb was
+            born. He has two younger trueborn brothers, Bran and Rickon, and two sisters, Sansa and
+            Arya. He is also close to his bastard half-brother, Jon Snow, and to his father\'s ward,
+            Theon Greyjoy, whom he counts as his best friend outside of the family. He has been
+            trained from childhood to wield a sword and wear armor by Winterfell\'s Master-at-Arms
+            Ser Rodrik Cassel, and is highly proficient with both for his young age. He lives at
+            Winterfell with his family.\n\n
+
+        </item>
+        <item>
+            \"I\'m Sansa Stark of Winterfell. This is my home and you can\'t frighten me.\"\n
+            -Sansa Stark to Myranda\n\n
+            Sansa Stark is the eldest daughter and second child of Lady Catelyn and Lord Eddard Stark.
+            Eddard is the head of House Stark and Lord Paramount of the North. The North is one of
+            the constituent regions of the Seven Kingdoms and House Stark is one of the Great Houses
+            of the realm. House Stark rules the region from their seat of Winterfell and Eddard also
+            holds the titles of Lord of Winterfell and the Warden of the North to King Robert Baratheon.\n\n
+            Sansa wa born and raised at Winterfell. She has an older brother, Robb, two younger brothers, Bran and
+            Rickon, a younger sister, Arya and a bastard half-brother, Jon Snow. Sansa enjoys proper
+            \"lady-like\" pursuits, and is good at sewing, embroidering, poetry, singing, literature and
+            music. She dreams of being a regal Queen like Cersei Lannister, and that just like in the
+            epic songs she will meet her knight in shining armor. She has inherited her mother\'s Tully
+            coloring, unlike most of her siblings, and Lady Catelyn thinks Sansa will be even more
+            beautiful than she was when she was younger. She is often seen in contrast with her sister,
+            Arya Stark who has neither her looks nor her accomplishments in feminine activities and
+            comportment.\n\n
+        </item>
+        <item>
+            \"You know who I am. I\'m Arya Stark. Do you know who you are? You\'re no one. You\'re nothing.\"\n
+            -Arya Stark to Meryn Trant\n\n
+            Arya Stark is a major character in the first, second, third, fourth, fifth and sixth seasons.
+        She is played by starring cast member Maisie Williams, and debuts in the series premiere.
+        Arya is the younger daughter of Lord Eddard Stark and his wife Lady Catelyn Stark. She is
+        headstrong, fiercely independent, disdains traditional women\'s pursuits, and thus is often
+        mistaken for a boy. She wields a sword named Needle, a gift from her half-brother, Jon Snow,
+        and was trained in the Braavosi style of swordfighting while living in King\'s Landing. She
+        adopted the direwolf Nymeria, but they have since been separated after Nymeria attacked
+        Joffrey, forcing Arya to send her away in order to prevent her execution.\n\n
+            When her father is betrayed and executed by Joffrey, Arya flees the capital with the help
+            of the Night\'s Watch recruiter, Yoren, who gets her out of the city disguised as an orphan
+            boy \"Arry\" and tries to take her to Winterfell. On the way, she compiles a list of people
+            she intends to kill. However, she is taken prisoner by Ser Gregor Clegane\'s men and taken
+            to Harrenhal, where she briefly serves as cupbearer to an unsuspecting Tywin Lannister.
+            After escaping, she begins making her way towards Riverrun and is captured by the Brotherhood
+            Without Banners and subsequently by Sandor Clegane. They travel across Westeros as he
+            unsuccessfully attempts to ransom her to various family members. In Clegane\'s company,
+            Arya becomes increasingly hardened and brutalized, and personally kills a number of men.
+            After Clegane is gravely injured in a fight, she abandons him. Long presumed dead by
+            many in Westeros and with nowhere else to turn, Arya is now in Braavos, training with
+            the Faceless Men. However, as a consequence of violating the assassins\' code, Arya has
+            been rendered blind by the guild as punishment.\n\n
+        </item>
+        <item>
+            \"My dreams are different.\"\n
+            -Bran\n\n
+            Brandon Stark, commonly called Bran, is a major character in the first, second, third,
+        fourth and sixth seasons. He is played by starring cast member Isaac Hempstead-Wright and
+        debuts in the series premiere. Bran Stark is a noble boy living with his family in Winterfell.
+        He lost the use of his legs after being pushed out of a tower window by Jaime Lannister
+        after discovering his incestuous relationship with Cersei Lannister. He relies on the servant
+        Hodor to aid his mobility. He has had prophetic dreams.\n\n
+            Bran adopted the direwolf Summer and they have forged a strong connection. He is able to
+            see through the direwolf\'s eyes while he sleeps, as Bran is a Warg: a person who possesses
+            the magical ability to enter the minds of animals and people. Bran is also blessed with the
+            magical power of the Sight, which allows him to glimpse the past, elsewhere in the present
+            and the future as well, often in dreams.\n\n
+            Bran is the fourth child and second son of Lady Catelyn and Lord Eddard Stark. Eddard is
+            the head of House Stark and Lord Paramount of the North. The North is one of the constituent
+            regions of the Seven Kingdoms and House Stark is one of the Great Houses of the realm.
+            House Stark rules the region from their seat of Winterfell and Eddard also holds the title
+            Lord of Winterfell. He is also the Warden of the North to King Robert Baratheon.\n\n
+        </item>
+        <item>
+            \"Robb\'s at war and I\'m going beyond the Wall. If something happens to us, you\'re the heir to W
+            interfell.\"\n
+            -Bran Stark when he sends Rickon away into hiding.\n\n
+        Rickon Stark is a recurring character in the first, second, third and sixth seasons.
+        He is played by guest star Art Parkinson and debuts in the series premiere.\n\n
+
+        Rickon is the youngest son of Eddard Stark and Catelyn Stark and lives with his family in
+        Winterfell until the Fall of Winterfell. Rickon adopted the direwolf Shaggydog and they have
+        forged a strong connection. He traveled to find safety at Last Hearth with the wildling Osha
+        after being separated from Hodor, Meera and Jojen Reed, and his brother Bran. His current
+        whereabouts are unknown.\n\n
+            Rickon is the fifth child and youngest son of Lady Catelyn and Lord Eddard Stark. Eddard
+            is the head of House Stark and Lord Paramount of the North. The North is one of the
+            constituent regions of the Seven Kingdoms and House Stark is one of the Great Houses
+            of the realm. House Stark rule the region from their seat of Winterfell and Eddard also
+            holds the title Lord of Winterfell. He is also the Warden of the North to King Robert Baratheon.\n\n
+            Rickon was born and raised at Winterfell. He has two older brothers Robb and Bran and two
+            older sisters Sansa and Arya. He also has an older bastard half-brother of Jon Snow. He
+            is six years old when his uncle and Hand of the King, Lord Jon Arryn, dies.\n\n
+        </item>
+        <item><string>
+           \"I\'m not asking you to forget your dead. I\'ll never forget mine. I lost fifty brothers
+            the night that Mance attacked the Wall. But I\'m asking you to think about your children now.
+            They\'ll never have children of their own if we don\'t band together. The Long Night is coming
+            and the dead come with it. No clan can stop them. The Free Folk can\'t stop them, the Night\'s
+            Watch can\'t stop them and all the southern kings can\'t stop them! Only together. All of us.
+            And even then it may not be enough, but at least we give the fuckers a fight.\"\n -Jon Snow\n\n
+            Jon is the bastard son of Lord Eddard Stark of Winterfell, the head of House Stark and Lord
+            Paramount of the North. The North is one of the constituent regions of the Seven Kingdoms in
+            Westeros, and House Stark is one of the Great Houses of the realm. House Stark rules the
+            region from their seat of Winterfell and Eddard also holds the title Lord of Winterfell.
+            He is also the Warden of the North to King Robert Baratheon.\n\n Eddard once told King
+            Robert Baratheon that Jon\'s mother is a serving girl named Wylla, but refused to elaborate
+            any further. Jon himself has no knowledge of his mother, not knowing if she\'s alive or not.\n\n
+            Jon was raised at Winterfell on an equal footing with Eddard\'s legitimate children. He
+            has an older half-brother Robb, two younger half-sisters Sansa and Arya, and two younger
+            half-brothers Bran and Rickon. Jon\'s presence at Winterfell is a source of friction between
+            Eddard and his wife, Catelyn, although Catelyn put aside her anger temporarily when the infant
+            Jon became severely ill. Jon got on well with his half-siblings, particularly Robb and Arya.\n\n
+        </string></item>
+    </string-array>
+
+    <!-- Personatges de la casa Lannister amb la seva descripció-->
+    <string-array name="desc_lannister">
+        <item>
+            \"Before long I\'ll be dead, and you and your brother and your sister and all of her
+            children, all of us dead, all of us rotting in the ground. It\'s the family name that lives
+            on. It\'s all that lives on. Not your personal glory, not your honor. but family.\"\n
+            -Lord Tywin Lannister to Ser Jaime Lannister.\n\n
+            Tywin is the lord of House Lannister, the Lord Paramount of the Westerlands, and the
+            richest man in the Seven Kingdoms. The Westerlands are one of the constituent regions of
+            the Seven Kingdoms and House Lannister is one of the Great Houses of the realm. House
+            Lannister rule the region from their seat of Casterly Rock and Tywin also holds the title
+            Lord of Casterly Rock. He is also the Warden of the West. He is a widower with three
+            children, Jaime, Cersei and Tyrion. Casterly Rock, the Lannister\'s ancestral seat
+            of power, is located over a group of highly productive goldmines, which have provided the
+            Lannisters with immense wealth over the years and led to the speculation that Tywin \"shits gold.\"\n\n
+            Tywin is the son of Tytos Lannister. His father presided over a period of decline for the
+            house, frittering away much of their fortune on poor investments and allowing himself to
+            be mocked at court, creating a perception of weakness. Their vassals House Reyne of
+            Castamere rebelled against Lord Tytos, and Tywin put down the rebellion personally,
+            extinguishing their house and re-establishing the fearsome reputation of House Lannister.
+            His ruthless destruction of House Reyne was immortalized in the song \"The Rains of Castamere\"
+            and gave darker meaning to the common phrase \"A Lannister always pays his debts,\" which
+            originally referred solely to the Lannister\'s vast fortune.\n\n
+        </item>
+        <item>
+            \"You\'ve always been funny, but none of your jokes will ever match the first one, will
+            they? You remember, back when you ripped my mother open on your way out of her, and she
+            bled to death.\"\n
+            -Cersei Lannister to Tyrion Lannister.\n\n
+            Joanna was the wife of Tywin Lannister, the head of House Lannister and the Lord of Casterly
+            Rock. Joanna was perhaps the only person Tywin loved unconditionally. Joanna bore him the
+            twins Jaime and Cersei. She died giving birth to Tyrion. Joanna died when Cersei and
+            Jaime were only four years old. Tywin took Joanna\'s death very hard, as did Cersei, who
+            holds Tyrion responsible for her death. However, Jaime understands that Tyrion was
+            just an infant and had no control over what happened.\n\n
+        </item>
+        <item>
+            \"There are no men like me, only me.\"\n
+            -Jaime Lannister\n\n
+            Ser Jaime Lannister is a knight of the Kingsguard, a position he has held for twenty years
+            since he was a teenager, the youngest man ever appointed to its membership. He was
+            appointed to the position by the Mad King, Aerys II Targaryen.\n\n
+            At the conclusion of Robert\'s Rebellion, Jaime\'s father Tywin betrayed King Aerys by
+            arriving at the gates of King\'s Landing with the main Lannister army and pleading his
+            allegiance, then after his army was allowed inside the gates, turning them loose to attack
+            the city. As Lannister soldiers raped and pillaged throughout the city during the Sack of
+            King\'s Landing, King Aerys remained holed up inside the Red Keep, for hours maniacally
+            repeating the order to \"burn them all\". Despite being sworn by the holiest oaths to protect
+            the king as a member of the Kingsguard, Jaime ultimately turned his own sword on Aerys,
+            slaying him at the foot of the Iron Throne itself. For this infamous act, he is known
+            throughout the Seven Kingdoms as the \"Kingslayer\", to his irritation.\n\n
+        </item>
+        <item>
+            \"I will do things for my family you couldn\'t imagine. I love my brother, I love my lover.
+            People will whisper, they\'ll make their jokes - let them. They\'re all so small
+            I can\'t even see them.\"\n
+            -Cersei to Jaime Lannister\n\n
+            Cersei is the only daughter and eldest child of Joanna Lannister and Lord Tywin Lannister.
+            Tywin is the head of House Lannister, the richest man in the Seven Kingdoms and Lord
+            Paramount of the Westerlands. The Westerlands are one of the constituent regions of the
+            Seven Kingdoms and House Lannister is one of the Great Houses of the realm. Cersei is the
+            elder twin of Ser Jaime Lannister and the elder sister of Tyrion Lannister. She was raised
+            in privilege in the family seat of Casterly Rock. She is noted for her great beauty.\n\n
+            Cersei\'s mother died when she was four years old, after giving birth to her younger brother
+            Tyrion. Like her father, Cersei has always blamed Tyrion for her mother\'s death and deeply
+            resents that her mother died so that Tyrion would be brought into the world. Cersei\'s father
+            Tywin was constantly away from home during her childhood and teenaged years, serving as
+            Hand of the King at the capital, with only infrequent visits back to his seat at Casterly
+            Rock. Coupled with the death of her mother, this meant that Cersei and her two brothers
+            were primarily raised by servants attached to House Lannister. She began an incestuous
+            relationship with Jaime in her youth which has continued despite her marriage. Cersei
+            has had other partners but Jaime has always been faithful to her.\n\n
+        </item>
+        <item>
+            Tyrion Lannister: \"I\'m guilty of a far more monstrous crime: I\'m guilty of being a dwarf!\"\n
+            Tywin Lannister: \"You are not on trial for being a dwarf.\"\n
+            Tyrion Lannister: \"Oh, yes I am! I\'ve been on trial for that my entire life!\"\n
+            -Tyrion at his trial, falsely accused of killing his nephew King Joffrey\n\n
+            Tyrion Lannister is the youngest son of Joanna Lannister and Lord Tywin Lannister. Tywin
+            is the head of House Lannister, the richest man in the Seven Kingdoms and Lord Paramount
+            of the Westerlands. The Westerlands are one of the constituent regions of the Seven Kingdoms
+            and House Lannister of Casterly Rock is one of the Great Houses of the realm. He is the
+            younger brother of Jaime and Cersei Lannister. His mother Joanna Lannister died giving
+            birth to him. His father and sister hold him in contempt as they blame him for the death.\n\n
+            He is a dwarf, causing him problems and persecution. His size has led him to being referred
+            to derisively by various names, such as \"the Imp\" and \"The Halfman\". This is mitigated by
+            his intellect and his family\'s wealth and power. Had an infant with dwarfism like Tyrion
+            been born a commoner, he\'d have simply been left out in the woods to die. However, Tyrion
+            was born into a powerful noble House, and was therefore spared. Even though his father
+            doesn\'t think much of him, he has had the benefits of being raised with wealth and education,
+            and is expected to lead his life as a credit to the Lannister name. He is committed to
+            the good of both his House and, since Cersei married King Robert Baratheon, his family\'s
+            continued hold on the throne.\n\n
+        </item>
+    </string-array>
+
+    <!-- Personatges de la casa Baratheon amb la seva descripció-->
+    <string-array name="desc_baratheon">
+        <item>
+            \"I\'m not trying to honor you. I\'m trying to get you to rum my kingdom while I eat, drink,
+            and whore my way to an early grave.\"\n
+            -Robert Baratheon to Eddard Stark\n\n
+            Robert Baratheon was the ruler of the Seven Kingdoms, formally styled as Robert of the House
+            Baratheon, the Firts of His Name, King of the Andals and the Firts Men, Lord of the Seven
+            Kingdoms and Protector of the Realm. He tooks the throne through conquest in the war known
+            as Robert\'s Rebellion. Robert was a great warrior in his youth. He killed Rhaegar Targaryen,
+            Prince of Dragonstone, at the Battle of the Trident. After the war, Robert married Cersei
+            Lannister to cement an alliance with House Lannister was loveless. Robert and Cersei have
+            three children: Joffrey, Myrcella and Tommen. Unbeknnown to Robert, all three were actually
+            fathered by Cersei\'s twin brother, Jaime Lannister.\n\n
+        </item>
+        <item>
+            \"I will do things for my family you couldn\'t imagine. I love my brother, I love my lover.
+            People will whisper, they\'ll make their jokes - let them. They\'re all so small
+            I can\'t even see them.\"\n
+            -Cersei to Jaime Lannister\n\n
+            Cersei is the only daughter and eldest child of Joanna Lannister and Lord Tywin Lannister.
+            Tywin is the head of House Lannister, the richest man in the Seven Kingdoms and Lord
+            Paramount of the Westerlands. The Westerlands are one of the constituent regions of the
+            Seven Kingdoms and House Lannister is one of the Great Houses of the realm. Cersei is the
+            elder twin of Ser Jaime Lannister and the elder sister of Tyrion Lannister. She was raised
+            in privilege in the family seat of Casterly Rock. She is noted for her great beauty.\n\n
+            Cersei\'s mother died when she was four years old, after giving birth to her younger brother
+            Tyrion. Like her father, Cersei has always blamed Tyrion for her mother\'s death and deeply
+            resents that her mother died so that Tyrion would be brought into the world. Cersei\'s father
+            Tywin was constantly away from home during her childhood and teenaged years, serving as
+            Hand of the King at the capital, with only infrequent visits back to his seat at Casterly
+            Rock. Coupled with the death of her mother, this meant that Cersei and her two brothers
+            were primarily raised by servants attached to House Lannister. She began an incestuous
+            relationship with Jaime in her youth which has continued despite her marriage. Cersei
+            has had other partners but Jaime has always been faithful to her.\n\n
+        </item>
+        <item>
+            \"We\'ve had vicious kings, and we\'ve had idiot kings, but I don\'t know if we\'ve ever
+            been cursed with a vicious idiot for a king!\"\n
+            -Tyrion Lannister, summarizing his nephew Joffrey Baratheon.\n\n
+            Joffrey is believed to be the oldest son and their of King Robert Baratheon and Queen Cersei
+            Lannister, both of whom entered into a political marriage alliance afther Robert took the
+            throne by force from the Mad King Aerys II Targaryen. In reality, his father is Jaime Lannister,
+            the queen\'s brother and the Lord Commander of the Kingsguard. He has a younger sister,
+            Myrcella, and a younger brother, Tommen, both whom are also the product of Jaime and Cersei\'s
+            incest. Their sole biological grandparents, Twin and Joanna Lannister, were also apparently
+            firts cousins.\n\n
+        </item>
+        <item>
+            \"I know. Abaout you and mother. I think a part of me always knew. And I\'m glad. I\'m glad
+            that you\'re my father.\"\n
+            -Myrcella Baratheon to her \"uncle\" Jaime Lannister.\n\n
+            Princess Myrcella Baratheon is a recurring character in seassons. She is portrayed by guest
+            star Nell Tiger Free, taking over the role (starting in Season 5) from Aimee Richardson,
+            who played the character in Seasons 1 and 2 and debuts in the series premiere. Princess
+            Myrcella is commonly thought Robert Baratheon and Queen Cersei Lannister. However, like
+            her siblings, her real father is Jaime Lannister. Her younger brother Tommen Baratheon
+            currently sits on the Iron Throne as the King of the Andals and the First Men. She was sent
+            to Dorne as part of a marriage pact with House Martell, and although she was allowed to
+            return to King\'s Landing with her betrothed by Doran Martell, she was poisoned and murdered
+            by Ellaria Sand and the Sand Snakes as revenge against Cersei for the death of Oberyn
+            Martell.\n\n
+        </item>
+        <item>
+            \"My father, maybe Joffrey was too much work for him. Sweet Tommen will be so much
+            easier to handle.\"\n
+            -Tyrion Lannister\n\n
+            King Tommen Baratheon is a major character in the fifth and sixth seasons. He initially
+        appeared as a recurring character in the first, second and fourth seasons. He is portrayed
+        by starring cast member Dean-Charles Chapman, taking over the role (starting in Season 4)
+        from Callum Wharry, who played the character briefly in Seasons 1 and 2. Tommen is the younger
+        brother of late King Joffrey and Princess Myrcella, and Joffrey\'s heir presumptive to the
+        Iron Throne. Though legally the son of the late King Robert Baratheon and Queen Cersei Lannister,
+        his true father is Ser Jaime Lannister, the Queen\'s twin brother. His sole biological
+        grandparents, Tywin and Joanna Lannister, were also first cousins.\n\n
+        </item>
+        <item>
+            \"No act done in the service of the Lord of Light can ever be a sin.\"\n
+            -Selyse Baratheon\n\n
+            Selyse is the wife of Stannis Baratheon, the Lord of Dragonstone and claimant to the Iron
+            Throne. She was born into House Florent of Brightwater Keep, a noble house of the Reach
+            and bannermen of House Tyrell.\n\n
+            Selyse and Stannis have a single daughter, Princess Shireen Baratheon. The rest of Selyse
+            and Stannis\' offspring, Petyr, Tommard, and Edric, were all stillborn. She keeps their
+            bodies in crystal containers filled with chemicals in her chambers.\n\n
+        </item>
+    </string-array>
+
+    <!-- Personatges de les casa Tyrell amb la seva descripció-->
+    <string-array name="desc_tyrell">
+        <item>
+            \"Not now, Mace, Lord Tywin and I are speaking!\"\n
+            -Lord Mace Tyrell is chided by his mother, Olenna\n\n
+
+            Mace Tyrell is a recurring character in the fourth, fifth and sixth seasons. He is
+            played by guest star Roger Ashton-Griffiths and debuts in \"The Lion and the Rose\".\n\n
+
+            Lord Mace Tyrell is the Lord of Highgarden and head of House Tyrell. He is the father of
+            Loras and Margaery Tyrell, and the son of Olenna Tyrell. He initially supported Renly
+            Baratheon\'s claim to the Iron Throne in the War of the Five Kings, but after Renly\'s
+            death he successfully negotiated an alliance with House Lannister to support King
+            Joffrey\'s claim to the throne, on the condition that his daughter Margaery would marry
+            Joffrey, making her the new queen and giving House Tyrell the prestige of entering into
+            the royal bloodline. He has since been appointed both Master of Ships and Master of Coin
+            on the Small Council.\n\n
+        </item>
+        <item>
+            Alerie Hightower is the daughter of Lord Leyton Hightower, Lord of Oldtown, and the
+            spouse of Lord Mace Tyrell of Highgarden. She is the mother of his four children, Willas,
+            Garlan, Loras and Margaery.\n\n
+        </item>
+        <item>
+            Willas Tyrell is a character cut from Game of Thrones. He has only appeared in the House
+            Tyrell family tree issued by HBO. He is the eldest son of Mace Tyrell, the Lord of Highgarden.\n\n
+
+            Willas Tyrell is the eldest son of Mace Tyrell and Alerie Tyrell. He has two younger
+            brothers Garlan and Loras and one sister Margaery.\n\n
+        </item>
+        <item>
+            Garlan Tyrell is the second son of Mace Tyrell and Alerie Tyrell. Mace is the Lord of
+            Highgarden and head of House Tyrell. He has two brothers Willas and Loras and one sister
+            Margaery.\n
+        </item>
+        <item>
+            \"Where is it written that power is the sole province of the worst? That thrones are only
+            made for the hated and the feared? You would be a wonderful king.\"\n
+            -Loras Tyrell to Renly Baratheon\n\n
+
+            Ser Loras Tyrell is a recurring character in the first, second, third, fourth, fifth and
+            sixth seasons. He is played by guest star Finn Jones and debuts in \"The Wolf and the Lion.\"
+            Ser Loras Tyrell, the heir to Highgarden, is a popular tourney knight and ranks as one of
+            the most skilled knights in Westeros. He was the lover of Renly Baratheon and supported
+            his claim to the Iron Throne as commander of his Kingsguard. After Renly is murdered,
+            Loras correctly deduces his brother Stannis Baratheon is responsible and swears vengeance.
+            He joins forces with King Joffrey and Tywin Lannister in the War of the Five Kings, and
+            helps them defeat Stannis at the Battle of the Blackwater. Since then, however, he has
+            been arrested by the re-established Faith Militant for his homosexuality, and is set to
+            stand trial.\n\n
+        </item>
+        <item>
+            Petyr Baelish: \"Do you want to be a queen?\"\n
+            Margaery Tyrell: \"No. I want to be the Queen.\"\n
+            -Margaery Tyrell to Littlefinger\n\n
+
+            Queen Margaery Tyrell is a major character in the second, third, fourth, fifth, and sixth
+            seasons. She is played by Natalie Dormer and debuts in \"What is Dead May Never Die.\"
+            Margaery is the widow of King Renly Baratheon, a claimant to the Iron Throne in the War
+            of the Five Kings. Her father Lord Mace Tyrell is the ruler of the Reach. She is betrothed
+            to King Joffrey Baratheon after the Battle of Blackwater, and briefly becomes his queen,
+            but this is cut short when Joffrey is fatally poisoned at their wedding feast. She
+            subsequently was betrothed to Joffrey\'s younger brother and successor, Tommen Baratheon.
+            Margaery is known for her beauty, political cunning, and ambition, although she has a
+            compassionate side. Due to Cersei Lannister\'s machinations, Margaery has recently been
+            arrested by the Faith Militant for perjury on her brother Loras\'s behalf, and the two
+            are to stand trial.\n\n
+        </item>
+        <item>
+            Olenna Tyrell: \"Loras is young and very good at knocking men off horses with a stick.
+            That does not make him wise. As for your fathead father\"\n
+            Margaery Tyrell: \"Grandmother! What will Sansa think of us?\"\n
+            Olenna Tyrell: \"She might think we have some wits about us, one of us at any rate.\"\n
+            -Margaery Tyrell introduces her grandmother Olenna to Sansa Stark\n\n
+
+            Olenna Tyrell, née Redwyne, is a recurring character in the third, fourth, fifth and sixth
+            seasons. She is played by Diana Rigg.\n\n
+
+            The elderly matriarch of House Tyrell, Lady Olenna has been a master of court politics
+            and intrigue par excellence throughout her life. She\'s also known for her wit and sarcasm.
+            As a result, Lady Olenna is popularly nicknamed the Queen of Thorns, in reference to her
+            House\'s sigil and her cutting barbs. In many ways she is the de facto head of House Tyrell
+            at the time of the War of the Five Kings and appears to hold a great deal of influence
+            over the Reach.\n\n
+        </item>
+        <item>
+            Garth Tyrell, better known as Garth the Gross, is the uncle of Lord Mace Tyrell. He
+            serves his nephew as the Lord Seneschal of Highgarden, as he served Mace\'s father Lord
+            Luthor. He has two bastard sons, Garse and Garrett Flowers. He is flatulent.
+        </item>
+    </string-array>
+
+    <!-- Personatges de les casa Greyjoy amb la seva descripció-->
+    <string-array name="desc_greyjoy">
+        <item>
+            \"No man gives me a crown. I pay the iron price. I will take my crown.\"\n
+            -Balon Greyjoy\n\n
+
+            King Balon Greyjoy is a recurring character in the second, third and sixth seasons. He
+            is played by guest star Patrick Malahide and debuts in \"The Night Lands.\" Balon Greyjoy
+            is the Lord Reaper of Pyke and the head of House Greyjoy. He is the father of Yara and
+            Theon Greyjoy.\n\n
+
+            Balon Greyjoy is the head of House Greyjoy and Lord of the Iron Islands. The Iron Islands
+            are one of the constituent regions of the Seven Kingdoms and House Greyjoy is one of the
+            Great Houses of the realm. House Greyjoy rule the region from their seat at Pyke and Balon
+            also holds the title Lord Reaper of Pyke. He is a hard, ambitious and ruthless man.\n\n
+
+            Balon is married to Alannys of House Harlaw. They had four children Rodrik, Maron, Yara
+            and Theon. Yara is their only daughter.\n\n
+
+            Eight years before the start of the series Balon declared himself King of the Iron Islands
+            and rose in the rebellion against the Iron Throne to revive the \"Old Way\", which had once
+            led the ironborn to rule much of the western coast of Westeros. He was, however, defeated
+            in a bloody war. His elder two sons were killed and his third son, Theon, was taken by Lord
+            Eddard Stark as a hostage for Balon\'s good behavior and obedience. Yara has remained on
+            the Iron Islands and has become a warrior and captain in her own right, which is unusual
+            for women on the isles.\n\n
+        </item>
+        <item>
+            \"They skinned our countrymen and they mutilated my brother, your prince. YOUR PRINCE!
+            Everything they\'ve done to him, they\'ve also done to you! As long as they can hurt our
+            prince with impunity, the word "ironborn" means nothing!\"\n
+            -Yara Greyjoy\n\n
+            Asha was fairly unattractive in her youth. Her uncle, Victarion Greyjoy, remembers Asha
+            as a little girl swimming naked in the sea and playing with her doll. After Theon
+            Greyjoy\'s departure for Winterfell to be Eddard Stark\'s hostage and ward, Asha became Lord
+            Balon Greyjoy\'s only remaining child in Pyke. Her mother, Lady Alannys Harlaw, fostered
+            five boys at Pyke after Theon\'s departure. Tristifer Botley, the boy closest to Asha in
+            age, developed an infatuation with her when they went through puberty, but Asha did not
+            reciprocate his affections.\n\n
+
+            Asha grew into an attractive and bold young woman, and Balon effectively raised her as
+            his heir. However, Asha preferred Ten Towers, the seat of her uncle Rodrik Harlaw, to
+            Pyke. She lost her virtue at age 16 to a sailor from Lys. In 293 AC or 294 AC Asha
+            sailed the Black Wind on a trading voyage which included stops at Fair Isle, Lannisport,
+            and the Arbor, where she introduced peaches to one of her lovers, Qarl the Maid.\n\n
+        </item>
+        <item>
+            \"Your name is Theon Greyjoy, last surviving son of Balon Greyjoy, Lord of the Iron Islands,
+            do you hear me?\"\n
+            ―Sansa Stark to Theon Greyjoy\n\n
+            Theon is the youngest son of Lord Balon and Lady Alannys Greyjoy. Balon is the head of
+            House Greyjoy and Lord of the Iron Islands. The Iron Islands are one of the constituent
+            regions of the Seven Kingdoms and House Greyjoy is one of the Great Houses of the realm.
+            House Greyjoy rule the region from their seat at Pyke and Balon also holds the title
+            Lord Reaper of Pyke.\n\n
+            Theon was born at Pyke. He is Balon and Alannys\' fourth child after Rodrik, Maron, and
+            Yara. Eight years before the start of the series Balon rose in rebellion against the Iron
+            Throne. The ironborn were crushed in a war led by King Robert Baratheon and Lord Eddard
+            Stark. Theon\'s brothers were both killed in the fighting. Balon surrendered and was allowed
+            to remain Lord of the Iron Islands on the condition that Theon remain a hostage and ward
+            of Eddard Stark. Theon\'s sister Yara remained on the Iron Islands. Despite his
+            status as a hostage at Winterfell, Theon was treated well by the Starks, and he came to
+            see Eddard as a surrogate father, while becoming best friends with Robb Stark. Theon is
+            a skilled archer. His cocky arrogance and cavalier actions contrast with the staid ways
+            of the North.\n\n
+        </item>
+        <item>
+            \"I still remember seeing my father\'s fleet burn in Lannisport. I believe your uncles were
+            responsible.\"\n
+            ―Tyrion Lannister to Theon Greyjoy in Season 1.\n\n
+            Euron Greyjoy is a character set to appear in the sixth season, though he was previously
+            mentioned indirectly in the Season 1 episode \"Cripples, Bastards and Broken Things\". He
+            will be portrayed by Pilou Asbæk. He is the younger brother of King Balon Greyjoy, older
+            brother of Aeron Greyjoy, and the eldest uncle of Theon and Yara Greyjoy.\n\n
+
+            \"Euron\" is pronounced \"Your-on\", not \"You-ron\" or \"Yew-ron\".\n\n
+        </item>
+        <item>
+            \"I still remember seeing my father\'s fleet burn in Lannisport. I believe your uncles were responsible.\"\n
+            ―Tyrion Lannister to Theon Greyjoy\n\n
+            Victarion Greyjoy is an unseen character in Game of Thrones. He has only appeared in the
+            first season House Greyjoy family tree issued by HBO. He is an uncle of Theon Greyjoy.\n\n
+            Victarion Greyjoy is the younger brother of Balon Greyjoy, Head of House Greyjoy and the
+            Lord Reaper of Pyke. Victarion is the Lord Captain of the Iron Fleet. His other brothers
+            are Euron Greyjoy and Aeron Greyjoy.\n\n
+        </item>
+        <item>
+            Aeron Greyjoy is a character in the sixth season. His appearance in Season 6 is
+            confirmed but the actor portraying him is not yet known.\n
+            Aeron Greyjoy is the youngest brother of Balon Greyjoy, head of House Greyjoy and the
+            Lord Reaper of Pyke. He is also the younger brother of Euron and an uncle of Yara and
+            Theon Greyjoy. He is a Drowned Priest in service to the Drowned God.\n
+        </item>
+        <item>
+            \"We both loved our mother. We both endured our father.\"\n
+            ―Yara Greyjoy\n\n
+            Alannys Greyjoy was born into House Harlaw and married Balon Greyjoy, head of House
+            Greyjoy and the Lord Reaper of Pyke. They had four children: Rodrik, Maron, Yara, and
+            Theon. Only her daughter Yara and her youngest son Theon are still alive.\n
+            Her two eldest sons were killed in the Greyjoy Rebellion. Balon Greyjoy surrendered his
+            and Alannys\' only surviving son Theon, then aged 10, as a hostage as punishment for the
+            uprising and to ensure there would be no others. Eddard Stark volunteered to raise Theon
+            as his ward in Winterfell.\n\n
+        </item>
+    </string-array>
+
+    <!-- Personatges de la casa Arryn amb la seva descripció-->
+    <string-array name="desc_arryn">
+        <item>
+            \"The seed is strong.\"\n
+            Jon Arryn\'s last words\n\n
+            Jon Arryn was the Lord of the Eyrie and the head of House Arryn, one of the Great Houses
+            of Westeros. Jos was the Warden of the East and Defender of the Vale. He was a respected
+            nobleman were fostered by him during their adolescence. The Mad King condoned the kidnap
+            of Eddard\'a sister and Robert\'s betrothed Lyanna Stark. The Mad King Eddard\'s father
+            and brother killed for protesting against the kidnapping. When he then demanded that Eddard
+            and Robert be turned over to the King\'s justice, Lord Arryn rebelled, calling his banners
+            to war. House Stark and House Baratheon followed suit. The rebels forged an alliance with
+            House Tully through marriage, with Eddard married Catelyn Tully and the then-elderly Jon
+            to the young Lysa Tully.\n\n
+        </item>
+        <item>
+            \"Mummy, I want to see the bad man fly.\"\n
+            -Robin Arryn\n\n
+            Robin was born in King\'s Landing where his father was serving as the Hand of the King for
+            Robert Baratheon. Jon begins an investigation into Rober\'s legitimate and bastard children
+            and then takes a fever and dies suddenly. Robin inherits Jon\'s posisition. Lysa rushes
+            Robin back to the Eyrie following Jon\'s death. She writes to her sister to accuse House
+            Lannister of poisoning Jon. Lysa was fiercely proctective of Robin and he leads an extremely
+            sheltered life.\n\n
+        </item>
+        <item>
+            Harrold was born the eldest son of a landed knight of House Hardyng and the youngest
+            daughter of Alys Arryn and Ser Elys Waynwood. He was taken in as Lady Anya Waynwood\'s
+            ward at Ironoaks and was raised there. Harrold is still young but it is rumored that,
+            despite his youth, he has already fathered a bastard daughter.\n\n
+            Harrold later confirms during a tournament at the Gates of the Moon to join the
+            Brotherhood of Winged Knights that he has a two year old bastard daughter named Alys,
+            whom he fathered on a girl named Cissy. According to Harrold, childbirth left Cissy \"fat
+            as a cow\", so Lady Waynwood arranged for her to be married off to one of her men-at-arms.
+            Sometime afterwards, Harrold impregnated the daughter of one of the richest spice
+            merchants in Gulltown named Saffron. She is expected to give birth to his second
+            acknowledged bastard.\n\n
+        </item>
+    </string-array>
+
+    <!--Personatges de la casa Bolton amb la seva descripció-->
+    <string-array name="desc_bolton">
+        <item>
+            \"In my family we say, \'A naked man has few secrets, a flayed man, none.\'\"\n
+            -Roose Bolton\n\n
+            Roose Bolton is the head of House Bolton, a vassal family to House Stark of Winterfell.
+            He is the Lord of the Dreadfort. Roose takes pride in his house sigil; the flayed man.
+            Although torture is outlawed in the North, his family is famous for flaying the skin
+            from their enemies as a means of torture and execution. Roose fought for Lord Eddard
+            Stark in the civil war against House Targaryen known as Robert\'s Rebellion and proved
+            his worth as a soldier in the Battle of the Trident. He advised Robert Baratheon to execute
+            Ser Barristan Selmy, a legendary Kingsguard sworn to the Targaryens, but Robert overruled
+            Roose and pardoned Selmy.\n\n
+            Roose Bolton had a trueborn son, Domeric, who perished, forcing Roose to rely on his
+            bastard son, Ramsay Snow.\n\n
+        </item>
+        <item>
+            \"Lord Walder let me choose any of his granddaughters and promised me the girl\'s weight in
+            silver as a dowry, so i have a fat young bride.\"\n
+            -Roose Bolton\n\n
+            Walda Bolton, née Frey, better know as Fat Walda, is a recurring character in the fourth,
+            fifth and sixth seasons. She is the new wife of Roose Bolton, the Lord of the Dreadfort.
+            She is portrayed by Elizabeth Webster.\n\n
+        </item>
+        <item>
+            \"If you think this has a happy ending, you haven\'t been paying attention.\"\n
+            -Ramsay Bolton to Theon Greyjoy\n\n
+            Ramsay Snow, better know as \"The Bastard of Bolton\", is Lord Roose Bolton\'s bastard son
+            and the product of rape: years ago Roose discovered that a miller had wed without his
+            permission. He had the miller hanged and raped his wife. Ramsay was born shortly afterwards,
+            and his mother brought him to the Dreadfort, his father\'s castle, for Roose to acknowledge as
+            his son. Roose very nearly killed both Ramsay and his mother, but relented upon realizing that
+            the child was indeed his.\n\n
+            Ramsay is Roose\'s only living child following the death of Domeric Bolton, as well as the
+            only possible heir to House Bolton until the birth of a child by Roose\'s new wife, Fat Walda
+            Frey. He Stayed Behind as castellan of the Dreadfort when his father left for the south
+            to fight in the War of the Five Kings.\n\n
+        </item>
+    </string-array>
+
+
+    <!-- Llista personatges de la casa Stark-->
+    <string-array name="personatges_starks">
+        <item>Eddard Stark</item>
+        <item>Catelyn Tully</item>
+        <item>Robb Stark</item>
+        <item>Sansa Stark</item>
+        <item>Arya Stark</item>
+        <item>Brandon Stark</item>
+        <item>Rickon Stark</item>
+        <item>Jon Snow</item>
+    </string-array>
+
+    <string name="eddardname">Eddard Stark</string>
+    <string name="eddard_desc">Lord of Winterfell, 35 years.</string>
+    <string name="eddard_desc_large">\"The man who passes the sentence should swing the sword.\"\n
+            -Eddard Stark\n\n
+            Eddard is the head of House Stark and Lord Paramount of the North. The North is one of the
+            constituent regions of the Seven Kingdoms, and House Stark is one of the Great House of
+            the realm. House Stark rules the region from their seat of Winterfell, and Eddard also
+            holds the little Lord of Winterfell. In addition, he is the Warden of the North.\n\n
+            Eddard is married to Lady Catelyn of House Tully. Though they barely knew one another when
+            they wed, they formed a strong and loving marriage. They have five legitimate children: Robb,
+            Sansa, Arya, Bran and Rickon. Eddard also has an illegitimate bastard son, Jon Snow, reportedly
+            by a common serving girl named Wylla. Jon\'s presence at Winterfell is a source of friction
+            between Eddard and his wife. Nevertheless, Eddard was close to all his children and was
+            well-loved an respected by all of them. He seemed to have a soft spot for his youngest daughter, Arya.\n\n
+            Eddard is the second son of the Lord Rickard Stark. Lord Rickard served King Aerys II Targaryen
+            as Warden of the North. Eddard\'s older brother Brandon was Rickard\'s heir. Eddard also
+            has a younger sister Lyanna and a younger brother Benjen. Eddard is a stoic, dutiful, and
+            honorable man and is considered to embody the values of the north.\n\n</string>
+
+    <!-- Array amb les descripcions curtes de la casa Stark-->
+    <string-array name="per_starks_descr">
+        <item></item>
+        <item>Lady of Winterfell, 35 years.</item>
+        <item>King in the North, 16 years.</item>
+        <item>Princess of Winterfell, 14 years.</item>
+        <item>Princess of Winterfell, 11 years.</item>
+        <item>Prince of Winterfell, 10 years.</item>
+        <item>Prince of Winterfell, 5 years.</item>
+        <item>Lord Commander of the Night\'s Watch, 17 years.</item>
+    </string-array>
+
+
+    <!-- Llista personatges de la casa Lannister-->
+    <string-array name="personatges_lann">
+        <item>Tywin Lannister</item>
+        <item>Joanna Lannister</item>
+        <item>Jaime Lannister</item>
+        <item>Cersei Lannister</item>
+        <item>Tyrion Lannister</item>
+    </string-array>
+
+    <string name="tywim_name">Tywin Lannister</string>
+    <string name="tywin_desc">Lord of Casterly Rock, 58 years.</string>
+    <string name="tywin_desc_large">\"Before long I\'ll be dead, and you and your brother and your sister and all of her
+            children, all of us dead, all of us rotting in the ground. It\'s the family name that lives
+            on. It\'s all that lives on. Not your personal glory, not your honor. but family.\"\n
+            -Lord Tywin Lannister to Ser Jaime Lannister.\n\n
+            Tywin is the lord of House Lannister, the Lord Paramount of the Westerlands, and the
+            richest man in the Seven Kingdoms. The Westerlands are one of the constituent regions of
+            the Seven Kingdoms and House Lannister is one of the Great Houses of the realm. House
+            Lannister rule the region from their seat of Casterly Rock and Tywin also holds the title
+            Lord of Casterly Rock. He is also the Warden of the West. He is a widower with three
+            children, Jaime, Cersei and Tyrion. Casterly Rock, the Lannister\'s ancestral seat
+            of power, is located over a group of highly productive goldmines, which have provided the
+            Lannisters with immense wealth over the years and led to the speculation that Tywin \"shits gold.\"\n\n
+            Tywin is the son of Tytos Lannister. His father presided over a period of decline for the
+            house, frittering away much of their fortune on poor investments and allowing himself to
+            be mocked at court, creating a perception of weakness. Their vassals House Reyne of
+            Castamere rebelled against Lord Tytos, and Tywin put down the rebellion personally,
+            extinguishing their house and re-establishing the fearsome reputation of House Lannister.
+            His ruthless destruction of House Reyne was immortalized in the song \"The Rains of Castamere\"
+            and gave darker meaning to the common phrase \"A Lannister always pays his debts,\" which
+            originally referred solely to the Lannister\'s vast fortune.\n\n</string>
+
+    <!-- Array amb les descripcions curtes de la casa Lannister-->
+    <string-array name="per_lann_descr">
+        <item>Lord of Casterly Rock, 58 years.</item>
+        <item>Lady of Casterly Rock, decreased.</item>
+        <item>Lord Commander of the Kingsguard, 34 years. </item>
+        <item>Dowager Queen, 34 years.</item>
+        <item>Hand of the King , 27 years.</item>
+    </string-array>
+
+
+    <!-- Llista personatges de la casa Baratheon-->
+    <string-array name="personatges_barat">
+        <item>Robert Baratheon</item>
+        <item>Cersei Lannister</item>
+        <item>Joffrey Baratheon</item>
+        <item>Myrceclla Baratheon</item>
+        <item>Tommen Baratheon</item>
+    </string-array>
+
+    <string name="robert_name">Robert Baratheon</string>
+    <string name="robert_desc">Lord of Storm\'s End , 36 years.</string>
+    <string name="robert_desc_large">\"I\'m not trying to honor you. I\'m trying to get you to rum my kingdom while I eat, drink,
+            and whore my way to an early grave.\"\n
+            -Robert Baratheon to Eddard Stark\n\n
+            Robert Baratheon was the ruler of the Seven Kingdoms, formally styled as Robert of the House
+            Baratheon, the Firts of His Name, King of the Andals and the Firts Men, Lord of the Seven
+            Kingdoms and Protector of the Realm. He tooks the throne through conquest in the war known
+            as Robert\'s Rebellion. Robert was a great warrior in his youth. He killed Rhaegar Targaryen,
+            Prince of Dragonstone, at the Battle of the Trident. After the war, Robert married Cersei
+            Lannister to cement an alliance with House Lannister was loveless. Robert and Cersei have
+            three children: Joffrey, Myrcella and Tommen. Unbeknnown to Robert, all three were actually
+            fathered by Cersei\'s twin brother, Jaime Lannister.\n\n</string>
+
+    <!-- Array amb les descripcions curtes de la casa Baratheon-->
+    <string-array name="per_barat_descr">
+        <item>Lord of Storm\'s End , 36 years.</item>
+        <item>Dowager Queen, 34 years.</item>
+        <item>King of the Andals and the First Men, 13 years. </item>
+        <item>Princess, 10 years.</item>
+        <item>King of the Andals and the First Men, 9 years.</item>
+    </string-array>
+
+
+    <!-- Llista personatges de la casa Tyrell-->
+    <string-array name="personatges_tyr">
+        <item>Mace Tyrell</item>
+        <item>Alerie Hightower</item>
+        <item>Willas Tyrell</item>
+        <item>Garlan Tyrell</item>
+        <item>Loras Tyrell</item>
+        <item>Margaery Tyrell</item>
+        <item>Olenna Redwyne</item>
+        <item>Garth Tyrell</item>
+    </string-array>
+
+    <string name="mace_name">Mace Tyrell</string>
+    <string name="mace_desc">Lord of Highgarden, 44 years.</string>
+    <string name="mace_desc_large">
+        \"Not now, Mace, Lord Tywin and I are speaking!\"\n
+            -Lord Mace Tyrell is chided by his mother, Olenna\n\n
+
+            Mace Tyrell is a recurring character in the fourth, fifth and sixth seasons. He is
+            played by guest star Roger Ashton-Griffiths and debuts in \"The Lion and the Rose\".\n\n
+
+            Lord Mace Tyrell is the Lord of Highgarden and head of House Tyrell. He is the father of
+            Loras and Margaery Tyrell, and the son of Olenna Tyrell. He initially supported Renly
+            Baratheon\'s claim to the Iron Throne in the War of the Five Kings, but after Renly\'s
+            death he successfully negotiated an alliance with House Lannister to support King
+            Joffrey\'s claim to the throne, on the condition that his daughter Margaery would marry
+            Joffrey, making her the new queen and giving House Tyrell the prestige of entering into
+            the royal bloodline. He has since been appointed both Master of Ships and Master of Coin
+            on the Small Council.\n\n</string>
+
+    <!-- Array amb les descripcions curtes de la casa Tyrell-->
+    <string-array name="per_tyr_descr">
+        <item>Lord of Highgarden, 44 years.</item>
+        <item>Lady of Highgarden, 40 years.</item>
+        <item>Cown of Highgarden, 27 years. </item>
+        <item>Cown of Highgarden, 23 years.</item>
+        <item>Lord Commander, 18 years.</item>
+        <item>Queen Consorts, 17 years.</item>
+        <item>Lady of Highgarden, 72 years</item>
+        <item>Lord Senescal de Altojardín</item>
+    </string-array>
+
+
+    <!-- Llista personatges de la casa Greyjoy-->
+    <string-array name="personatges_grey">
+        <item>Balon Greyjoy</item>
+        <item>Tara Greyjoy</item>
+        <item>Theon Greyjoy</item>
+        <item>Euron Greyjoy</item>
+        <item>Victarion Greyjoy</item>
+        <item>Aeron Greyjoy</item>
+        <item>Alannys Harlaw</item>
+    </string-array>
+
+    <string name="balon_name">Balon Greyjoy</string>
+    <string name="balon_desc">King of the Iron Islands and the North, alive.</string>
+    <string name="balon_desc_large">
+            \"No man gives me a crown. I pay the iron price. I will take my crown.\"\n
+            -Balon Greyjoy\n\n
+
+            King Balon Greyjoy is a recurring character in the second, third and sixth seasons. He
+            is played by guest star Patrick Malahide and debuts in \"The Night Lands.\" Balon Greyjoy
+            is the Lord Reaper of Pyke and the head of House Greyjoy. He is the father of Yara and
+            Theon Greyjoy.\n\n
+
+            Balon Greyjoy is the head of House Greyjoy and Lord of the Iron Islands. The Iron Islands
+            are one of the constituent regions of the Seven Kingdoms and House Greyjoy is one of the
+            Great Houses of the realm. House Greyjoy rule the region from their seat at Pyke and Balon
+            also holds the title Lord Reaper of Pyke. He is a hard, ambitious and ruthless man.\n\n
+
+            Balon is married to Alannys of House Harlaw. They had four children Rodrik, Maron, Yara
+            and Theon. Yara is their only daughter.\n\n
+
+            Eight years before the start of the series Balon declared himself King of the Iron Islands
+            and rose in the rebellion against the Iron Throne to revive the \"Old Way\", which had once
+            led the ironborn to rule much of the western coast of Westeros. He was, however, defeated
+            in a bloody war. His elder two sons were killed and his third son, Theon, was taken by Lord
+            Eddard Stark as a hostage for Balon\'s good behavior and obedience. Yara has remained on
+            the Iron Islands and has become a warrior and captain in her own right, which is unusual
+            for women on the isles.\n\n</string>
+
+    <!-- Array amb les descripcions curtes de la casa Greyjoy-->
+    <string-array name="per_grey_descr">
+        <item>King of the Iron Islands and the North, alive.</item>
+        <item>Princess, alive.</item>
+        <item>Prince of Winterfell, 21 years. </item>
+        <item>Captain of the Silence, alive.</item>
+        <item>Lord Captain of the Iron Fleet, alive.</item>
+        <item>Priest of the Drowned Gods, alive.</item>
+        <item>Lady of Pyke, alive.</item>
+    </string-array>
+
+
+    <!-- Llista personatges de la casa Arryn-->
+    <string-array name="personatges_arryn">
+        <item>Jon Arryn</item>
+        <item>Robert Arryn</item>
+        <item>Harrold Hardyng</item>
+    </string-array>
+
+    <string name="jon_name">Jon Arryn</string>
+    <string name="jon_desc">Warden of the East, 73 years.</string>
+    <string name="jon_desc_large">
+    \"The seed is strong.\"\n
+    Jon Arryn\'s last words\n\n
+    Jon Arryn was the Lord of the Eyrie and the head of House Arryn, one of the Great Houses
+    of Westeros. Jos was the Warden of the East and Defender of the Vale. He was a respected
+    nobleman were fostered by him during their adolescence. The Mad King condoned the kidnap
+    of Eddard\'a sister and Robert\'s betrothed Lyanna Stark. The Mad King Eddard\'s father
+    and brother killed for protesting against the kidnapping. When he then demanded that Eddard
+    and Robert be turned over to the King\'s justice, Lord Arryn rebelled, calling his banners
+    to war. House Stark and House Baratheon followed suit. The rebels forged an alliance with
+    House Tully through marriage, with Eddard married Catelyn Tully and the then-elderly Jon
+    to the young Lysa Tully.\n\n</string>
+
+    <!-- Array amb les descripcions curtes de la casa Arryn-->
+    <string-array name="per_arryn_descr">
+        <item>Warden of the East, 73 years.</item>
+        <item>Lord of the Eyrie, 8 years.</item>
+        <item>Heir Eagles Nest, 18 years. </item>
+    </string-array>
+
+
+    <!-- Llista personatges de la casa Bolton-->
+    <string-array name="personatges_bolt">
+        <item>Roose Bolton</item>
+        <item>Walda Bolton</item>
+        <item>Ramsay Bolton</item>
+    </string-array>
+
+    <string name="roose_name">Roose Bolton</string>
+    <string name="roose_desc">Lord of the Dreadfort, 45 years.</string>
+    <string name="roose_desc_large">
+    \"In my family we say, \'A naked man has few secrets, a flayed man, none.\'\"\n
+    -Roose Bolton\n\n
+    Roose Bolton is the head of House Bolton, a vassal family to House Stark of Winterfell.
+    He is the Lord of the Dreadfort. Roose takes pride in his house sigil; the flayed man.
+    Although torture is outlawed in the North, his family is famous for flaying the skin
+    from their enemies as a means of torture and execution. Roose fought for Lord Eddard
+    Stark in the civil war against House Targaryen known as Robert\'s Rebellion and proved
+    his worth as a soldier in the Battle of the Trident. He advised Robert Baratheon to execute
+    Ser Barristan Selmy, a legendary Kingsguard sworn to the Targaryens, but Robert overruled
+    Roose and pardoned Selmy.\n\n
+    Roose Bolton had a trueborn son, Domeric, who perished, forcing Roose to rely on his
+    bastard son, Ramsay Snow.\n\n</string>
+
+
+    <!-- Array amb les descripcions curtes de la casa Bolton-->
+    <string-array name="per_bolt_descr">
+        <item>Lord of the Dreadfort, 45 years.</item>
+        <item>Lady of the Dreadfort, alive.</item>
+        <item>Castellan of The Dreadfort, 23 years.</item>
+    </string-array>
+    <string name="title_activity_third">ThirdActivity</string>
+</resources>
